@@ -2,6 +2,8 @@
 
 Two examples of typing declaration files appearing to not bundle as expected
 
+Issue filed on parcel's repo: https://github.com/parcel-bundler/parcel/issues/7790
+
 ## Setup
 
 ```sh
